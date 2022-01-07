@@ -1,12 +1,3 @@
-- [구조 1 : JSON {parant}](#구조-1--json-parant)
-- [구조2 :JSON{child}](#--2--json-child-)
-- [구조3](#--3)
-- [공통](#--)
-    + [MULTINODE : index.mdx](#multinode---indexmdx)
-    + [NODE : index.mdx](#node---indexmdx)
-    + [문서 활용](#-----)
-
-
 # 구조 1 : JSON {parant}
 
 현재 내위치 : “1_3_2”
@@ -122,26 +113,23 @@ function setBreadCrumb(Nodes, targetNode, arr: NodeType[] = []) {
 
 
 # 공통
-### MULTINODE : index.mdx
-하위 노드들 목차와 간략한 설명으로 구성
+## MULTINODE : index.mdx
+- TOC <화면사이즈에 따라 `colum` or `row`>
+- 하위 노드들 목차와 간략한 설명으로 구성
 
-### NODE : index.mdx
-    `가장 pure한 예제 코드`
+## NODE : index.mdx
+- TOC <화면사이즈에 따라 `colum` or `row`>
+- 가장 pure한 예제 코드
+- 컴포넌트 예제
+- 컴포넌트 전체 코드
+- 추가 설명
+- (활용 예제)
+- (활용 예제 코드)
 
-    `컴포넌트 예제`
+## 문서 활용
+- LINK 활용 문서에서 문서로 넘어가기 쉬워야함
 
-    `컴포넌트 전체 코드`
 
-    추가 설명
-
-    (활용 예제)
-    (활용 예제 코드)
-
-### 문서 활용
-
-LINK 활용 문서에서 문서로 넘어가기 쉬워야함
-
-index.mdx 
 
 
 
