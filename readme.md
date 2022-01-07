@@ -1,4 +1,4 @@
-- [구조 1 : JSON {parant}](#---1---json--parant-)
+- [구조 1 : JSON {parant}](#구조-1--json-parant)
 - [구조2 :JSON{child}](#--2--json-child-)
 - [구조3](#--3)
 - [공통](#--)
