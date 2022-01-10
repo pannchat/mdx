@@ -114,11 +114,11 @@ function setBreadCrumb(Nodes, targetNode, arr: NodeType[] = []) {
 
 # 공통
 ## MULTINODE : index.mdx
-- TOC <화면사이즈에 따라 `colum` or `row`>
+- TOC <화면사이즈에 따라 `column` or `row`>
 - 하위 노드들 목차와 간략한 설명으로 구성
 
 ## NODE : index.mdx
-- TOC <화면사이즈에 따라 `colum` or `row`>
+- TOC <화면사이즈에 따라 `column` or `row`>
 - 가장 pure한 예제 코드
 - 컴포넌트 예제
 - 컴포넌트 전체 코드
